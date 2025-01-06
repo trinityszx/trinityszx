@@ -20,7 +20,7 @@ Rubia RP é uma cidade de roleplay onde as histórias são criadas pelos própri
 Se você estiver interessado em colaborar, compartilhar ideias ou quiser saber mais sobre a Rubia RP, fique à vontade para me chamar!
 
 - Discord: trinitysz_
-- Email: seuemail@exemplo.com
+- Email: xtrinitysz@gmail.com
 
 ---
 
