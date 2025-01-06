@@ -24,7 +24,7 @@ Se você estiver interessado em colaborar, compartilhar ideias ou quiser saber m
 
 ---
 
-Desenvolvedor com foco em experiências inovadoras no FiveM. Sempre em busca de criar mundos virtuais mais dinâmicos e interativos! 🚀
+Desenvolvedor com foco em experiências inovadoras no FiveM! 🚀
         ![Logo da Rubia RP](https://github.com/trinityszx/trinityszx/blob/main/teamdev.png?raw=true)
 
 
