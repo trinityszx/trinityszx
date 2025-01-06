@@ -25,3 +25,4 @@ Se você estiver interessado em colaborar, compartilhar ideias ou quiser saber m
 ---
 
 Desenvolvedor com foco em experiências inovadoras no FiveM. Sempre em busca de criar mundos virtuais mais dinâmicos e interativos! 🚀
+![Logo da Rubia RP]([https://link-para-o-logo-da-cidade.png](https://media.discordapp.net/attachments/1324540352526422037/1325663662379372575/canais.png)
