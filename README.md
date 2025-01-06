@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou desenvolvedor da cidade **Rubia RP**, um servidor d
 ## Sobre a Rubia RP 🚓🚔
 Rubia RP é uma cidade de roleplay onde as histórias são criadas pelos próprios jogadores. Desde a ação da polícia até os negócios mais inusitados, você pode se tornar quem quiser! Junte-se a nós e experimente uma nova perspectiva de RP no FiveM.
 
-## Tecnologias que utilizo 🛠️
+## Linguagens e Plataformas que utilizo 🛠️
 - **FiveM**: Plataforma para criar servidores de multiplayer personalizados no GTA V.
 - **Lua**: Linguagem de programação usada para scripts no FiveM.
 - **MySQL**: Banco de dados para gerenciar informações da cidade e jogadores.
