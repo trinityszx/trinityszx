@@ -14,7 +14,7 @@ Rubia RP é uma cidade de roleplay onde as histórias são criadas pelos própri
 
 ## Projetos
 - **Market P2P**: Sitema sendo criado para um mercado mais realista onde todo comercio gira somente entre players!
-- **Allowlist System:** Sistema de Allowlist para qbcore.
+
   
 
 
