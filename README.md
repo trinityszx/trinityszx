@@ -8,7 +8,7 @@
 - **MySQL**: Banco de dados para gerenciar informações da cidade e jogadores.
 - **JavaScript/TypeScript**: Para scripts avançados e integração com front-end.
 - **HTML/CSS**: Para interfaces e HUDs personalizados.
-- **Python**: Para interfaces e HUDs personalizados.
+- **Python**: Para sistemas complexos.
 
 ## Projetos
 - **Market P2P**: Sitema sendo criado para um mercado mais realista onde todo comercio gira somente entre players!
