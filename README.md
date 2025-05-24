@@ -1,4 +1,4 @@
-# Olá, sou desenvolvedor JS, Pytohn! 👾
+# Olá, sou desenvolvedor JS, Python! 👾
 
 
 
