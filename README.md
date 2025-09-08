@@ -1,4 +1,4 @@
-# Olá, sou desenvolvedor JS, Python! 👾
+# Olá, sou desenvolvedor JS, Python, lua e TypeS! 👾
 
 
 
@@ -7,7 +7,8 @@
 - **Lua**: Linguagem de programação usada para scripts no FiveM.
 - **MySQL**: Banco de dados para gerenciar informações da cidade e jogadores.
 - **JavaScript/TypeScript**: Para scripts avançados e integração com front-end.
-- **HTML/CSS**: Para interfaces e HUDs personalizados.
+- **HTML/CSS**: Para interfaces, HUDs personalizados e sites resposivos.
+- **Web Dev**: Desenvolvimento de aplicações e sistemas para gerenciamento de negocios.
 - **Python**: Para sistemas complexos.
 
 ## Projetos
