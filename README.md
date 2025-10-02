@@ -12,7 +12,7 @@
 - **Python**: Para sistemas complexos.
 
 ## Projetos
-- **Sistema de Gestão de Frotas***: SaaS, um web service para gerir sua frota de veículos , além de planejar e conduzir rotas sofisticadas para seu sistemas.
+- **Sistema de Gestão de Frotas**: SaaS, um web service para gerir sua frota de veículos , além de planejar e conduzir rotas sofisticadas para seu sistemas.
 
   
 
