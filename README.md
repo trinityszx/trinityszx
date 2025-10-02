@@ -12,7 +12,7 @@
 - **Python**: Para sistemas complexos.
 
 ## Projetos
-- **Market P2P**: Sitema sendo criado para um mercado mais realista onde todo comercio gira somente entre players!
+- **Sistema de Gestão de Frotas***: SaaS, um web service para gerir sua frota de veículos , além de planejar e conduzir rotas sofisticadas para seu sistemas.
 
   
 
