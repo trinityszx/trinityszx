@@ -1,15 +1,8 @@
-# Olá, sou desenvolvedor JS, Python, lua e TypeS! 👾
+# Olá, sou desenvolvedor JS, React, Node.js e Angular 👾
 
 
 
-## Linguagens e Plataformas que utilizo 🛠️
-- **FiveM**: Plataforma para criar servidores de multiplayer personalizados no GTA V.
-- **Lua**: Linguagem de programação usada para scripts no FiveM.
-- **MySQL**: Banco de dados para gerenciar informações da cidade e jogadores.
-- **JavaScript/TypeScript**: Para scripts avançados e integração com front-end.
-- **HTML/CSS**: Para interfaces, HUDs personalizados e sites resposivos.
-- **Web Dev**: Desenvolvimento de aplicações e sistemas para gerenciamento de negocios.
-- **Python**: Para sistemas complexos.
+## Visando sempre  fluidez e gestao correta dos dados!
 
 ## Projetos
 - **Sistema de Gestão de Frotas**: SaaS, um web service para gerir sua frota de veículos , além de planejar e conduzir rotas sofisticadas para seu sistemas.
