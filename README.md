@@ -6,7 +6,7 @@
 
 ## Projetos
 - **Sistema de Gestão de Frotas**: SaaS, um web service para gerir sua frota de veículos , além de planejar e conduzir rotas sofisticadas para seu sistemas com sistema de rotas planejada com acesso ao motorista, integrado diretamente com google maps!.
-<img src="https://imgur.com/a/NPcXhPI">
+<img src="https://i.imgur.com/l5TT1yc.png">
 ## Tecnologias usadas em nossos desenvolvimentos:
 
 <p align="center">
