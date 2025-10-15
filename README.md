@@ -23,10 +23,11 @@
 
 
 ## Entre em contato 📬
-Se você estiver interessado em colaborar, compartilhar ideias ou quiser saber mais sobre a Rubia RP, fique à vontade para me chamar!
+Solicitação de qualquer orçamento entrar em contato via email ou discord!
 
-- WhatsApp:
+- Discord: 19981020302020
 - Email: allif@outlook.com.br
+- 
 
 ---
 
