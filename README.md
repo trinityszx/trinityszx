@@ -1,4 +1,4 @@
-# Olá, me chamo Allif, desenvolvedor de sistema Web, se busca uma melhor gestão de seu negocio podemos resolver! 👾
+# Olá seja bem vindos ao meu GIT, aqui anexos meus trabalhos para apresentação e preview de sistemas ja desenvovlidos por mim! 👾
 
 
 
